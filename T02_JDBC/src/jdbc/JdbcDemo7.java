@@ -24,6 +24,7 @@ public class JdbcDemo7 {
             //3.定义sql
             String sql = "select * from boys";
             //4.获取执行sql对象
+
             statement = conn.createStatement();
             //5.执行sql
             rs = statement.executeQuery(sql);
