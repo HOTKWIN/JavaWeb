@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/T02_JDBC/T02_JDBC.iml" filepath="$PROJECT_DIR$/T02_JDBC/T02_JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/T03_DataSource/T03_DataSource.iml" filepath="$PROJECT_DIR$/T03_DataSource/T03_DataSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/T04_Tomcat&amp;Servlet01/T04_Tomcat&amp;Servlet01.iml" filepath="$PROJECT_DIR$/T04_Tomcat&amp;Servlet01/T04_Tomcat&amp;Servlet01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T05_Servlet&amp;HTTP&amp;Request/T05_Servlet&amp;HTTP&amp;Request.iml" filepath="$PROJECT_DIR$/T05_Servlet&amp;HTTP&amp;Request/T05_Servlet&amp;HTTP&amp;Request.iml" />
     </modules>
   </component>
 </project>
